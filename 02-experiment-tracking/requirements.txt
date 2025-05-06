@@ -1,0 +1,10 @@
+python==3.9
+mlflow
+jupyter
+sckit-learn
+pandas
+seaborn
+hyperopt
+fastparquet
+boto3
+xgboost
